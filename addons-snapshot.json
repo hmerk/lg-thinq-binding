@@ -6,7 +6,7 @@
     "version": "4.0.0-SNAPSHOT",
     "author": "Nemer Daud",
     "maturity": "stable",
-    "content_type": "application/vnd.openhab.feature;type=jarfile",
+    "content_type": "application/vnd.openhab.feature",
     "link": "",
     "url": "https://github.com/nemerdaud/openhab-thinq-stuff/raw/main/org.openhab.binding.lgthinq-4.0.0-SNAPSHOT.jar",
     "title": "LG ThinQ Binding",
