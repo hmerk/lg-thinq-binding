@@ -1,7 +1,7 @@
 [
   {
     "uid": "org-openhab-binding-lgthinq",
-    "id": "lgthink",
+    "id": "lgthinq",
     "type": "binding",
     "version": "4.0.0-SNAPSHOT",
     "author": "Nemer Daud",
