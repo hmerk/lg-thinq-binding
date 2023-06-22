@@ -7,7 +7,7 @@
     "author": "Nemer Daud",
     "maturity": "stable",
     "content_type": "application/vnd.openhab.feature",
-    "link": "",
+    "link": " ",
     "url": "https://github.com/nemerdaud/openhab-thinq-stuff/raw/main/org.openhab.binding.lgthinq-4.0.0-SNAPSHOT.jar",
     "title": "LG ThinQ Binding",
     "description": "This binding can control ThinQ enabled devices by LG "
